@@ -1,6 +1,4 @@
-name =
-age =
-city =
-country =
+print(f'My name is Pavlo.')
+print(f'I am 20 years old')
+print(f'I am from Ukraine')
 
-print(f'My name is {name}')
